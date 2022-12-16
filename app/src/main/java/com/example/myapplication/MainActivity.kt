@@ -18,7 +18,9 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-//
+//my 1st commit body
+        //my 2nd commit body
+
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
