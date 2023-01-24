@@ -13,6 +13,9 @@ import com.example.myapplication.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 //Feature Biashara
+    //Bi Reporting
+
+
 
 
     private lateinit var appBarConfiguration: AppBarConfiguration
